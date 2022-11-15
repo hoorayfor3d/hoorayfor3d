@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 Twitter - https://twitter.com/hoorayfor3d
-Mastodon - <a rel="me" href="https://mastodon.gamedev.place/@hoorayfor3d">
+
+Mastodon - <a rel="me" href="https://mastodon.gamedev.place/@hoorayfor3d">https://mastodon.gamedev.place/@hoorayfor3d</a>
+
 Web - https://www.hoorayfor3d.com
 
 <!--
