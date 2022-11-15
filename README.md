@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Twitter - https://twitter.com/hoorayfor3d
+Mastodon - <a rel="me" href="https://mastodon.gamedev.place/@hoorayfor3d">
+Web - https://www.hoorayfor3d.com
+
 <!--
 **hoorayfor3d/hoorayfor3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
